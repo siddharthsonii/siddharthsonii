@@ -42,7 +42,7 @@
   <h3>💻 My Workspace Specs</h3>
   <img src="https://img.shields.io/badge/OS-Windows_10-informational?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logo=ram&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201050%20ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
