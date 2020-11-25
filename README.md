@@ -38,8 +38,8 @@
   </a>
   <a href="https://www.linkedin.com/in/siddharth-soni-b1ab99147" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
+<h3>💻 My Workspace Specs</h3>
 <p>
-  <h3>💻 My Workspace Specs</h3>
   <img src="https://img.shields.io/badge/OS-Windows_10-informational?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logo=ram&logoColor=white" />
