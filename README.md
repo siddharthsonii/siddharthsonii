@@ -29,8 +29,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=siddharthsonii&show_icons=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsonii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>
- <h3>📫 Where To Find Me</h3>
+<h3 align='center'>📫 Where To Find Me</h3>
+<p align='center'>
   <a href="https://github.com/siddharthsonii" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://twitter.com/siddharthsonii" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://instagram.com/beingsuperman_">
@@ -38,8 +38,8 @@
   </a>
   <a href="https://www.linkedin.com/in/siddharth-soni-b1ab99147" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
-<h3>💻 My Workspace Specs</h3>
-<p>
+<h3 align='center'>💻 My Workspace Specs</h3>
+<p align='center'>
   <img src="https://img.shields.io/badge/OS-Windows_10-informational?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logo=ram&logoColor=white" />
