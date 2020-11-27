@@ -45,4 +45,5 @@
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logo=ram&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201050%20ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=jalbertsr.jalbertsr" alt="visitor badge" /> </p>
 
