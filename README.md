@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning and working on CodeIgnitor.
 
 <h3>🔧 Things I Code With</h3>
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=siddharthsonii&show_icons=true&hide=issues)
