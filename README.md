@@ -8,7 +8,7 @@
 - 📍 Based in Greater Noida, India <img src="https://github.com/chitrank0614/chitrank0614/blob/master/images/india.svg" width="13"/>.
 - 🏢 I'm currently an undergraduate student at IEC College Of Engineering And Technology, Greater Noida.
 - 🤓 I'm proficient in Full Stack Web Development.
-- 🌱 I’m currently learning MERN Technology.
+- 🌱 I’m currently learning and working on CodeIgnitor.
 
 <h3>🔧 Things I Code With</h3>
 
