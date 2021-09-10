@@ -11,21 +11,8 @@
 - 🌱 I’m currently learning and working on CodeIgnitor.
 
 <h3>🔧 Things I Code With</h3>
-
-![OS](https://img.shields.io/badge/OS-Windows_10-informational?style=for-the-badge&logo=windows&logoColor=white&color=1e90ff)
-![VS_Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=1e90ff)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=1e90ff)
-![JS](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=1e90ff)
-![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=1e90ff)
-![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1e90ff)
-![Bootstrap](https://img.shields.io/badge/Code-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=1e90ff)
-![React](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=1e90ff)
-![Redux](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=1e90ff)
-![Shell_Bash](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=1e90ff)
-![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=1e90ff)
-![Heroku](https://img.shields.io/badge/Tools-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=1e90ff)
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=1e90ff)
-![TypeScript](https://img.shields.io/badge/Code-Bootstrap-informational/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=siddharthsonii&show_icons=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsonii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
