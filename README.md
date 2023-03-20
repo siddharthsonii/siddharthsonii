@@ -5,7 +5,7 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/54449601/100186169-7f311180-2f0b-11eb-8abc-316061eb9678.gif)
 
 
-- 📍 Based in Greater Noida, India <img src="https://github.com/chitrank0614/chitrank0614/blob/master/images/india.svg" width="13"/>.
+- 📍 Based in Lucknow, India <img src="https://github.com/chitrank0614/chitrank0614/blob/master/images/india.svg" width="13"/>.
 - 🏢 I'm currently an undergraduate student at IEC College Of Engineering And Technology, Greater Noida.
 - 🤓 I'm proficient in Full Stack Web Development.
 - 🌱 I’m currently learning and working on CodeIgnitor.
