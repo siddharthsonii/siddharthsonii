@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍 Based in Lucknow, India.<br>🏢 I'm currently an undergraduate student at IEC College Of Engineering And Technology, Greater Noida.<br>🤓 I'm proficient in Full Stack Web Development.<br>🌱 I’m currently learning and working on NodeJS.
+📍 Based in Lucknow, India.<br>🏢 I'm currently an undergraduate student at IEC College Of Engineering And Technology, Greater Noida.<br>🤓 I'm proficient in Full Stack Web Development.<br>🌱 I’m currently learning and working on NodeJS.<br>👨🏻‍💻 My portfolio - <a href="https://siddharthsonii.vercel.app/">Siddharth Soni</a>
 
 
 ## 🌐 Socials:
